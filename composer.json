@@ -1,0 +1,16 @@
+{
+    "name": "richcadman/composer",
+    "description": "a test composer project",
+    "type": "project",
+    "require": {
+        "houdunwang/arr": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Liu",
+            "email": "417626953@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
