@@ -90,3 +90,10 @@
     21.接下来安装类库包
         composer install
 
+    ////////////////////////////////////////////////////////////////////
+    1.从packlist应用商店下载包到本地
+        composer create-project richcadman/composer a1 dev-master --prefer-dist
+            richcadman/composer ：商店包的位置
+            a1                  ：新建本地文件夹并将包保存至此文件夹
+
+
